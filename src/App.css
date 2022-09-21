@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img {
+    border-radius: 2rem;
+}
+.card {
+    background-color: #fdf0c5;
+}
+ul {
+    list-style: disclosure-closed;
+}
+.bor {
+    border-radius: 2rem;
+}
